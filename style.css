@@ -1,0 +1,16 @@
+@font-face {
+    font-family: '8-bit Arcade In';
+    src: url("assets/fonts/PressStart2P-vaV7.ttf");
+    size: 10px;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.cursor {
+    cursor: pointer !important;
+}
